@@ -1,0 +1,5 @@
+/target
+target/
+# SQLite DBファイル（バイナリ）
+*.sqlite
+*.sqlite-journal
